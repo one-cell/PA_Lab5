@@ -1,0 +1,9 @@
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\bin\Debug\3D_tic-tac-toe.exe.config
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\bin\Debug\3D_tic-tac-toe.exe
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\bin\Debug\3D_tic-tac-toe.pdb
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\3D_tic-tac-toe.csproj.AssemblyReference.cache
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\_3D_tic_tac_toe.Properties.Resources.resources
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\3D_tic-tac-toe.csproj.GenerateResource.cache
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\3D_tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\3D_tic-tac-toe.exe
+C:\Users\Ya\source\repos\3D_tic-tac-toe\3D_tic-tac-toe\obj\Debug\3D_tic-tac-toe.pdb
